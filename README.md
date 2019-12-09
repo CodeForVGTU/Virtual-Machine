@@ -34,3 +34,5 @@ case: 10 01 --> Ry0000 Rx0001(shiftinimai, kad prirasytume nulius) -->reg[1]=Q=8
 ## COMMAND LIST
 ![alt text](https://github.com/CodeForVGTU/Virtual-Machine/blob/master/images/1.png)
 ![alt text](https://github.com/CodeForVGTU/Virtual-Machine/blob/master/images/2.png)
+
+### output.txt is result file! You can delete it to see how VM.py works.
